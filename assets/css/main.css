@@ -2155,7 +2155,7 @@ a.video-play-btn {
 ----------------------------------------------------------------------------- */
 .feature-bg {
   position: relative;
-  margin: 150px 0;
+  margin: 80px 10px;
 }
 
 .feature-bg:after {
